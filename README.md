@@ -1,6 +1,6 @@
 # My-Git-Learn  
-思路：github上建立仓库clone到本地 编辑后push上去
-终端中cd /Users/..进入想要放的文件夹 然后git clone
+思路：github上建立仓库clone到本地 编辑后push上去  
+终端中cd /Users/..进入想要放的文件夹 然后git clone  
 ```
 git clone git@github.com:kangshuaibo/My-Git-Learn.git
 ```

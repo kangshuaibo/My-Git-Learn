@@ -1,14 +1,14 @@
 # My-Git-Learn  
 首先github上建立仓库clone到本地 编辑后push上去    
-###part one最基本的git命令    
-```
-1、git add .             //全部添加到注意有个点```  
-2、git commit -m "note"  //提交 后面双引号内为本次的注释，方便回退时查看要回退的版本  
-3、git push              //同步到github仓库  
-//注意：若修改了github上的内容需要pull回来  
-```
+### part one最基本的git命令    
 
-###part two回退版本操作  
+1、```git add .             //全部添加到注意有个点```  
+2、```git commit -m "note"  //提交 后面双引号内为本次的注释，方便回退时查看要回退的版本``` 
+3、```git push              //同步到github仓库```
+```//注意：若修改了github上的内容需要pull回来```  
+
+
+### part two回退版本操作  
 ```
 git reflog   //查看要回退的版本(缩略) 注释起作用  
 git log      //命令查看所有的历史版本（全），获取某个历史版本的id  

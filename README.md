@@ -16,8 +16,8 @@ git log      //命令查看所有的历史版本（全），获取某个历史�
 ![Image text](https://raw.githubusercontent.com/kangshuaibo/My-Git-Learn/master/git-readme-img/屏幕快照%202018-10-13%20上午12.53.36.png)  
 ```
 git reset --hard 139dcfaa558e3276b30b6b2e5cbbb9c00bbdca96//回滚到某一版本  
-git reset --hard HEAD~3 //将最近3次的提交回滚  
-git push -f -u origin master //把修改推到远程服务器  
+git reset --hard HEAD~3                                  //将最近3次的提交回滚  
+git push -f -u origin master          //把修改推到远程服务器  
 ```
 
 
